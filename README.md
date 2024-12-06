@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Collin Calloway and I'm a Full Stack in training, born and raised in the humid state Georgia.</p>
 
 ###
 
@@ -11,16 +11,17 @@
 ###
 
 <p align="left">
-  👨‍💻 Full Stack Dev | Aspiring to Create the Ultimate Operating System along with the next biggest software and hardware company🚀
+  👨‍💻 Aspiring to Create the Ultimate Operating System along with the next biggest software and hardware company🚀
 
 🌟 Passionate about crafting seamless user experiences and pushing the boundaries of technology. Dreaming of revolutionizing the digital world with the most innovative operating system ever imagined.
 
 💻 Proficient in JavaScript, HTML, and CSS, with a hunger to learn and master new technologies. Constantly exploring, experimenting, and evolving to bring groundbreaking ideas to life.
 
 🔧 Let's collaborate and build the future together! Open to exciting projects and opportunities to contribute to transformative software development.
-
+</p>
+<p align="left"> 
 All projects are a controbution to God, Our lord and savior Jesus, And the Blessed Holy Mary.
-/p>
+</p>
 
 ###
 
@@ -31,11 +32,9 @@ All projects are a controbution to God, Our lord and savior Jesus, And the Bless
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
@@ -44,6 +43,8 @@ All projects are a controbution to God, Our lord and savior Jesus, And the Bless
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />-->
+  <img width="12" />
 </div>
 
 ###
