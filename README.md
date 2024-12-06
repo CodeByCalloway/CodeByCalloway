@@ -5,3 +5,5 @@
 💻 Proficient in JavaScript, HTML, and CSS, with a hunger to learn and master new technologies. Constantly exploring, experimenting, and evolving to bring groundbreaking ideas to life.
 
 🔧 Let's collaborate and build the future together! Open to exciting projects and opportunities to contribute to transformative software development.
+
+All projects are a controbution to God, Our lord and savior Jesus, And the Blessed Holy Mary.
